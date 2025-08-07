@@ -1,0 +1,8 @@
+| Component         | Pin Name       | ESP32 GPIO Pin |
+| ----------------- | -------------- | -------------- |
+| Water Temp Sensor | DS18B20 Data   | GPIO 4 (D4)    |
+| Turbidity Sensor  | Analog Output  | GPIO 34 (VP)   |
+| Relay             | IN Pin         | GPIO 5 (D5)    |
+| Servo Motor       | Control Signal | GPIO 13 (D13)  |
+| OLED Display      | SDA            | GPIO 21        |
+|                   | SCL            | GPIO 22        |
