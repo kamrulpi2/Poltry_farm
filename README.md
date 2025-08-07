@@ -3,7 +3,7 @@ Here’s a sample `README.md` file tailored for your smart fish feeding system p
 
 ---
 
-## 🐟 Smart Fish Feeder with Ultrasonic Sensor using ESP32
+## 🐟 polty Fish Feeder with Ultrasonic Sensor using ESP32
 
 This project is an automatic fish feeder system built using the **ESP32**, **ultrasonic sensor**, **servo motor**, and **0.96" OLED display**. It calculates the **distance to the water surface (or food level)** using the ultrasonic sensor and **translates it into a 0–100% food level display**. The servo releases food when the button is pressed.
 
